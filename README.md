@@ -16,13 +16,7 @@ Before the session:
         * Navigating between cells
         * Executing cells
         * Modifying a bit of code in cells, and re-executing them
-
-# Updating Files
-
-If I update the content, and you need to refresh your Notebooks, you have three options:
-* Use `git` and to clone this repository. Just make sure that you get your original `./img/` and `./data/` into the same folder as the updated notebooks.
-* Use the "poor man's git" in `Summit19_TestMe.ipynb`, which has a cell at the bottom that will download the latest session content (notebooks only) to `./dl` relative to where the originating notebook lives.
-* Ask me or Juan for assistance.
+* Import files from this Github repository into your Colaboratory file structure.
 
 If you get your stuff working, please help your fellow attendees if they're having trouble so that we can all follow along.
 
