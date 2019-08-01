@@ -17,6 +17,11 @@ Before the session:
         * Executing cells
         * Modifying a bit of code in cells, and re-executing them
 * Import files from this Github repository into your Colaboratory file structure.
+    * Load https://colab.research.google.com in your browser.
+    * Click the Github tab at the top.
+    * Enter `kbreit` for the user. Hit enter.
+    * Select `mastery19` for the repository. Hit enter.
+    * Click `Mastery_Programming_with_python.ipynb`.
 
 If you get your stuff working, please help your fellow attendees if they're having trouble so that we can all follow along.
 
