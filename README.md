@@ -1,4 +1,6 @@
-<center><img src='https://www.insight.com/content/dam/insight-web/logos/global-nav.svg' width='500'></center>
+<center>
+   <img src='https://www.insight.com/content/dam/insight-web/logos/global-nav.svg' width='500'>
+</center>
 
 ---
 
