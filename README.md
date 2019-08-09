@@ -8,9 +8,9 @@ These are the `ipynb` (Jupyter Notebook) session files for Mastery 2019. In orde
 
 ## Preparation
 
-Before the session:
+Before the session, you can prepare by checking the following:
 
-* Have a Google account with access to https://colab.research.google.com/
+1. You have a Google account and can access the Gooogle Colaboratory https://colab.research.google.com/
 * Have familiarized yourself with Google Colabratory's interface.
     * Review content on https://colab.research.google.com/notebooks/welcome.ipynb# Try:
         * Navigating between cells
