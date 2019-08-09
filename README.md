@@ -2,8 +2,6 @@
    <img src='https://www.insight.com/content/dam/insight-web/logos/global-nav.svg' width='500'>
 </p>
 
----
-
 ## Welcome to Mastery 2019
 
 These are the `.ipynb` (Jupyter Notebook) session files for Mastery 2019 sessions:
@@ -13,8 +11,6 @@ These are the `.ipynb` (Jupyter Notebook) session files for Mastery 2019 session
 * Introduction to AI
 
 In order to maximize the value of the session it is critical to follow along and get hands-on experience with the tools, techniques, and packages that we are going to be exploring together. Getting familiar with and oriented in the Colaboratory/Jupyter Notebook environment before your session will make for a much more pleasant and valuable experience. We want you to get the most out of your time!
-
----
 
 ## <font color="#D21087">Preparation
 
@@ -30,8 +26,6 @@ Before the session, you can prepare by doing the following:
 * Access the course content, which is hosted on GitHub, within Colaboratory
     * Head to https://colab.research.google.com/github/kbreit/mastery19/
     * Click on the appropriate Notebook for the course
-
----
 
 ## <font color="#D21087">During the Session
 
