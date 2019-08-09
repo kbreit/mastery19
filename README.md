@@ -4,7 +4,7 @@
 
 ---
 
-## Welcome to Mastery 2019!
+## <font color="#D21087">Welcome to Mastery 2019!
 
 These are the `.ipynb` (Jupyter Notebook) session files for Mastery 2019 sessions:
 
@@ -16,7 +16,7 @@ In order to maximize the value of the session it is critical to follow along and
 
 ---
 
-## Preparation
+## <font color="#D21087">Preparation
 
 Before the session, you can prepare by doing the following:
 
@@ -33,7 +33,7 @@ Before the session, you can prepare by doing the following:
 
 ---
 
-## During the Session
+## <font color="#D21087">During the Session
 
 * Access the course content, which is hosted on GitHub, within Colaboratory
     * Head to https://colab.research.google.com/github/kbreit/mastery19/
