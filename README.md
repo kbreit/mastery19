@@ -39,7 +39,7 @@ Before the session, you can prepare by doing the following:
     * Head to https://colab.research.google.com/github/kbreit/mastery19/
     * Click on the appropriate Notebook for the course
 
-Make sure that when we start the session, you are starting with the latest content of of the kbreit/mastery19 GitHub repository. We will be updating the Notebooks and fine-tuning so you don't want to miss out.
+**NOTE:** Make sure that when we start the session, you are starting with the latest content of of the `kbreit/mastery19` GitHub repository. We will be updating the Notebooks and fine-tuning through the weekend, so you don't want to miss out.
 
 If you get your stuff working, please help your fellow attendees if they're having trouble so that we can all follow along and get started.
 
