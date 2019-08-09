@@ -4,7 +4,7 @@
 
 ---
 
-## <font color="#D21087">Welcome to Mastery 2019!
+## Welcome to Mastery 2019
 
 These are the `.ipynb` (Jupyter Notebook) session files for Mastery 2019 sessions:
 
