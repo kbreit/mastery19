@@ -1,28 +1,39 @@
-<img src='https://www.insight.com/content/dam/insight-web/logos/global-nav.svg'>
+<p align='center'>
+   <img src='https://www.insight.com/content/dam/insight-web/logos/global-nav.svg' width='500'>
+</p>
 
-# Welcome to Mastery 2019!
+## Welcome to Mastery 2019
 
-For attendees of the two sessions on Python:
+These are the `.ipynb` (Jupyter Notebook) session files for Mastery 2019 sessions:
 
-These are the `ipynb` (Jupyter Notebook) session files for Mastery 2019. In order to maximize the value of the session it is critical to follow along and get hands-on experience with the tools, techniques, and packages that we are going to be exploring together. Getting the environment and becoming somewhat familiar with Jupyter Notebook before your session will make for a much more pleasant and valuable experience. We want you to get the most out of your time!
+* Intro to Python Scripting Language: Fundamentals
+* Intermediate Python Scripting: Applications
+* Introduction to AI
 
-## Preparation
+In order to maximize the value of the session it is critical to follow along and get hands-on experience with the tools, techniques, and packages that we are going to be exploring together. Getting familiar with and oriented in the Colaboratory/Jupyter Notebook environment before your session will make for a much more pleasant and valuable experience. We want you to get the most out of your time!
 
-Before the session:
+## <font color="#D21087">Preparation
 
-* Have a Google account with access to https://colab.research.google.com/
-* Have familiarized yourself with Google Colabratory's interface.
-    * Review content on https://colab.research.google.com/notebooks/welcome.ipynb# Try:
-        * Navigating between cells
-        * Executing cells
-        * Modifying a bit of code in cells, and re-executing them
-* Import files from this Github repository into your Colaboratory file structure.
-    * Load https://colab.research.google.com in your browser.
-    * Click the Github tab at the top.
-    * Enter `kbreit` for the user. Hit enter.
-    * Select `mastery19` for the repository. Hit enter.
-    * Click `Mastery_Programming_with_python.ipynb` for the introduction course or `Mastery - Intermediate Programming with Python.ipynb` for the intermediate course.
+Before the session, you can prepare by doing the following:
 
-If you get your stuff working, please help your fellow attendees if they're having trouble so that we can all follow along.
+* Verify you have a Google account and can access the Gooogle Colaboratory https://colab.research.google.com/
+* Familiarize yourself with Google Colabratory's interface...
+   * Review the [Introduction to Colaboratory and Jupyter Notebooks]( https://colab.research.google.com/notebooks/welcome.ipynb#). 
+   * Try:
+         * Navigating between cells
+         * Executing cells (shift-enter)
+         * Modifying a bit of code in cells, and re-executing them
+* Access the course content, which is hosted on GitHub, within Colaboratory
+    * Head to https://colab.research.google.com/github/kbreit/mastery19/
 
-Thanks!
+## <font color="#D21087">During the Session
+
+* Access the course content, which is hosted on GitHub, within Colaboratory
+    * Head to https://colab.research.google.com/github/kbreit/mastery19/
+    * Click on the appropriate Notebook
+
+**NOTE:** Make sure that when we start the session, you are starting with the latest content of of the `kbreit/mastery19` GitHub repository by re-accessing the link provided above. We will be updating the Notebooks and fine-tuning through the weekend, so you don't want to miss out.
+
+If you get your stuff working, please help your fellow attendees if they're having trouble so that we can all follow along and get started.
+
+- Victor and Kevin
